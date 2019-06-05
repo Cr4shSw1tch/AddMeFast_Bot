@@ -14,10 +14,18 @@
 
 ## Use
 
+`
 Download [**Firefox**](https://www.mozilla.org/tr/firefox/new/)
 
 Log in to your **gmail account**
 
+Drag the **geckodriver.exe** to the desktop
+
+Go to ***Control Panel\System and security\System***
+
+After that ***Advanced system settings > Environment Variables > User Variables > Path > New > C:\Users\Cr4sh-Sw1tch\Desktop***
+
+Go to ***C:\Users\Cr4sh-Sw1tch\Desktop\AddMeFast\dist*** and run ***admefast.exe***
+`
 
 
-`python admefast.py`
