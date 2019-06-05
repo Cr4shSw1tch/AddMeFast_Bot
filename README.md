@@ -14,8 +14,6 @@
 
 ## Use
 
-`
-
 Download [**Firefox**](https://www.mozilla.org/tr/firefox/new/)
 
 Log in to your **gmail account**
@@ -28,6 +26,6 @@ After that ***Advanced system settings > Environment Variables > User Variables 
 
 Go to ***C:\Users\Cr4sh-Sw1tch\Desktop\AddMeFast\dist*** and run ***admefast.exe***
 
-`
+
 
 
