@@ -27,8 +27,8 @@ After that ***Advanced system settings > Environment Variables > User Variables 
 Go to ***C:\Users\Cr4sh-Sw1tch\Desktop\AddMeFast\dist*** and run ***admefast.exe***
 
 ## Video
+Go to setup program [**Video**](https://vimeo.com/340619506)
 
-<a href="https://asciinema.org/a/17648">
 
 
 
