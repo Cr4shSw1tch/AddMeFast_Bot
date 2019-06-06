@@ -28,7 +28,7 @@ Go to ***C:\Users\Cr4sh-Sw1tch\Desktop\AddMeFast\dist*** and run ***admefast.exe
 
 ## Video
 
-<a href="https://vimeo.com/340619506"><img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a>
+<a href="https://asciinema.org/a/17648">
 
 
 
