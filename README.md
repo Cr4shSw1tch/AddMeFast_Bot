@@ -27,7 +27,7 @@ After that ***Advanced system settings > Environment Variables > User Variables 
 Go to ***C:\Users\Cr4sh-Sw1tch\Desktop\AddMeFast\dist*** and run ***admefast.exe***
 
 ## Video
-![AddMeFast Video](https://i.ibb.co/jTwqj95/banner.jpg "Video")
+[![AddMeFast Video](https://i.ibb.co/jTwqj95/banner.jpg "Video")](https://www.youtube.com/watch?v=p5CZjCLc2a4&feature=youtu.be)
 
 
 
